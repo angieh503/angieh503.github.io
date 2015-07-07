@@ -4,11 +4,12 @@ h1 {
 }
 
 div {
-	border-radius: 5px;
-	border: 2px solid #6495ed;
-	background-color: #bcd2ee;
 	height: 50px;
-	width: 60px
+	width: 60px;
+	border-color: #6495ed;
+	background-color: #bcd2ee;
+	border-style: 2px solid
+	border-radius: 5px;
 	margin: auto;
 	text-align: center;
 }
