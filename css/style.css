@@ -2,3 +2,25 @@ h1 {
 	color: red;
 	font-weight: bold;
 }
+
+div {
+	border-radius: 5px;
+	border: 2px solid #6495ed;
+	background-color: #bcd2ee;
+	height: 50px;
+	width: 120px
+	margin: auto;
+	text-align: center;
+}
+    
+a {
+	text-decoration: none;
+	color: #3d59ab;
+	font-family: Verdana;
+}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
